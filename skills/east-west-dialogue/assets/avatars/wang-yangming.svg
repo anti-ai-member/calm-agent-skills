@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Wang Yangming avatar</title>
+  <desc id="desc">Symbolic avatar for Wang Yangming with action badge.</desc>
+  <rect width="160" height="160" rx="28" fill="#edf1ee"/>
+  <circle cx="80" cy="70" r="40" fill="#d2c3a5"/>
+  <path d="M42 115c10-24 66-24 76 0v13H42z" fill="#4f695d"/>
+  <path d="M47 48l32-15 34 16-34 16z" fill="#445b78"/>
+  <path d="M78 36v34" stroke="#f4efe8" stroke-width="5" stroke-linecap="round"/>
+  <path d="M62 91l12 12 27-33" fill="none" stroke="#2f6f55" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="64" cy="72" r="4" fill="#2d2a25"/>
+  <circle cx="96" cy="72" r="4" fill="#2d2a25"/>
+  <text x="80" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#2f6f55">ACT</text>
+</svg>

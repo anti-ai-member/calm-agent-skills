@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Nietzsche avatar</title>
+  <desc id="desc">Symbolic avatar for Nietzsche with hammer badge.</desc>
+  <rect width="160" height="160" rx="28" fill="#f2eee9"/>
+  <circle cx="80" cy="70" r="39" fill="#d5bda6"/>
+  <path d="M42 115c10-24 66-24 76 0v13H42z" fill="#5f4a52"/>
+  <path d="M52 54c17-21 39-21 56 0" fill="none" stroke="#3e2f35" stroke-width="10" stroke-linecap="round"/>
+  <path d="M64 88c11 9 21 9 32 0" fill="none" stroke="#3e2f35" stroke-width="8" stroke-linecap="round"/>
+  <path d="M100 39l18 18-8 8-18-18zM91 47l-8 8 31 31 8-8z" fill="#8b3f3f"/>
+  <circle cx="65" cy="72" r="4" fill="#2d2a25"/>
+  <circle cx="95" cy="72" r="4" fill="#2d2a25"/>
+  <text x="80" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#8b3f3f">HAM</text>
+</svg>

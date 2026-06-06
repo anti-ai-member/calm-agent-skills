@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Aristotle avatar</title>
+  <desc id="desc">Symbolic avatar for Aristotle with Lyceum badge.</desc>
+  <rect width="160" height="160" rx="28" fill="#eef0f4"/>
+  <circle cx="80" cy="70" r="40" fill="#d4c1ad"/>
+  <path d="M42 115c10-24 66-24 76 0v13H42z" fill="#59627a"/>
+  <path d="M48 50h64M56 50v38M80 50v38M104 50v38M45 88h70" stroke="#7c8395" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="65" cy="72" r="4" fill="#2d2a25"/>
+  <circle cx="95" cy="72" r="4" fill="#2d2a25"/>
+  <path d="M69 92c7 5 15 5 22 0" fill="none" stroke="#2d2a25" stroke-width="4" stroke-linecap="round"/>
+  <text x="80" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#59627a">LYC</text>
+</svg>

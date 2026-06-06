@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc" shape-rendering="crispEdges">
+  <title id="title">Lazy Coconut pixel avatar</title>
+  <desc id="desc">A relaxed pixel-art coconut wearing sunglasses under a small palm leaf.</desc>
+  <rect width="160" height="160" fill="#f5f0df"/>
+  <rect x="24" y="120" width="112" height="12" fill="#d8c99a"/>
+  <rect x="36" y="108" width="88" height="12" fill="#e5d8aa"/>
+  <rect x="100" y="28" width="12" height="12" fill="#3f7b58"/>
+  <rect x="88" y="40" width="12" height="12" fill="#3f7b58"/>
+  <rect x="100" y="40" width="12" height="12" fill="#64a56f"/>
+  <rect x="112" y="40" width="12" height="12" fill="#3f7b58"/>
+  <rect x="76" y="52" width="12" height="12" fill="#3f7b58"/>
+  <rect x="88" y="52" width="12" height="12" fill="#64a56f"/>
+  <rect x="100" y="52" width="12" height="12" fill="#64a56f"/>
+  <rect x="112" y="52" width="12" height="12" fill="#64a56f"/>
+  <rect x="124" y="52" width="12" height="12" fill="#3f7b58"/>
+  <rect x="52" y="64" width="12" height="12" fill="#8a5a33"/>
+  <rect x="64" y="52" width="48" height="12" fill="#8a5a33"/>
+  <rect x="52" y="76" width="72" height="12" fill="#8a5a33"/>
+  <rect x="40" y="88" width="96" height="12" fill="#8a5a33"/>
+  <rect x="40" y="100" width="96" height="12" fill="#8a5a33"/>
+  <rect x="52" y="112" width="72" height="12" fill="#8a5a33"/>
+  <rect x="64" y="124" width="48" height="12" fill="#8a5a33"/>
+  <rect x="64" y="64" width="48" height="12" fill="#a86f3d"/>
+  <rect x="52" y="88" width="72" height="12" fill="#a86f3d"/>
+  <rect x="52" y="100" width="72" height="12" fill="#a86f3d"/>
+  <rect x="64" y="112" width="48" height="12" fill="#a86f3d"/>
+  <rect x="64" y="88" width="24" height="12" fill="#1f2933"/>
+  <rect x="100" y="88" width="24" height="12" fill="#1f2933"/>
+  <rect x="88" y="88" width="12" height="12" fill="#1f2933"/>
+  <rect x="76" y="92" width="12" height="4" fill="#f5f0df"/>
+  <rect x="112" y="92" width="12" height="4" fill="#f5f0df"/>
+  <rect x="76" y="112" width="36" height="8" fill="#5d351f"/>
+  <rect x="88" y="120" width="12" height="4" fill="#5d351f"/>
+  <rect x="28" y="104" width="12" height="12" fill="#6b8f71"/>
+  <rect x="16" y="116" width="12" height="12" fill="#6b8f71"/>
+  <rect x="124" y="104" width="12" height="12" fill="#6b8f71"/>
+  <rect x="136" y="116" width="12" height="12" fill="#6b8f71"/>
+</svg>

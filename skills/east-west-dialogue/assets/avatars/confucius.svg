@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Confucius avatar</title>
+  <desc id="desc">Symbolic avatar for Confucius with ritual badge.</desc>
+  <rect width="160" height="160" rx="28" fill="#f3eadf"/>
+  <circle cx="80" cy="70" r="41" fill="#d7b98d"/>
+  <path d="M40 116c12-26 68-26 80 0v12H40z" fill="#6f3f2d"/>
+  <path d="M50 47h60v12H50z" fill="#9b2f2f"/>
+  <path d="M59 37h42v12H59z" fill="#c2a15a"/>
+  <path d="M63 84h34" stroke="#3a2c23" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="64" cy="71" r="4" fill="#2d2a25"/>
+  <circle cx="96" cy="71" r="4" fill="#2d2a25"/>
+  <text x="80" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#9b2f2f">RIT</text>
+</svg>

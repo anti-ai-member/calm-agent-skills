@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Mencius avatar</title>
+  <desc id="desc">Symbolic avatar for Mencius with moral sprouts badge.</desc>
+  <rect width="160" height="160" rx="28" fill="#f4efe8"/>
+  <circle cx="80" cy="70" r="40" fill="#dfc5a8"/>
+  <path d="M43 114c9-24 65-24 74 0v14H43z" fill="#8f5f4a"/>
+  <path d="M79 45c-8-17-25-14-27 1 12 1 21 8 27 22 6-14 15-21 27-22-2-15-19-18-27-1z" fill="#6a9b58"/>
+  <circle cx="65" cy="73" r="4" fill="#2d2a25"/>
+  <circle cx="95" cy="73" r="4" fill="#2d2a25"/>
+  <path d="M69 92c7 6 15 6 22 0" fill="none" stroke="#2d2a25" stroke-width="4" stroke-linecap="round"/>
+  <text x="80" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#6a9b58">SPR</text>
+</svg>

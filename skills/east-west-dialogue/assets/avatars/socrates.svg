@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Socrates avatar</title>
+  <desc id="desc">Symbolic avatar for Socrates with questioning badge.</desc>
+  <rect width="160" height="160" rx="28" fill="#f1f0ea"/>
+  <circle cx="80" cy="70" r="40" fill="#d6c1a8"/>
+  <path d="M42 115c10-24 66-24 76 0v13H42z" fill="#68707a"/>
+  <path d="M55 58c8-18 42-18 50 0" fill="none" stroke="#d8d4c8" stroke-width="10" stroke-linecap="round"/>
+  <path d="M73 55c3-12 23-10 23 3 0 12-15 11-15 23" fill="none" stroke="#5b6470" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="81" cy="94" r="4" fill="#5b6470"/>
+  <circle cx="64" cy="75" r="4" fill="#2d2a25"/>
+  <circle cx="96" cy="75" r="4" fill="#2d2a25"/>
+  <text x="80" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#5b6470">Q?</text>
+</svg>

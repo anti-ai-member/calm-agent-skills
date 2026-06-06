@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Hegel avatar</title>
+  <desc id="desc">Symbolic avatar for Hegel with dialectic badge.</desc>
+  <rect width="160" height="160" rx="28" fill="#eef0f5"/>
+  <circle cx="80" cy="70" r="40" fill="#d2bdab"/>
+  <path d="M42 115c10-24 66-24 76 0v13H42z" fill="#4f5d79"/>
+  <path d="M55 58c10-20 40-20 50 0" fill="none" stroke="#3b3b44" stroke-width="10" stroke-linecap="round"/>
+  <path d="M57 89h46M65 80l15 18 15-18" fill="none" stroke="#6a6f83" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="65" cy="72" r="4" fill="#2d2a25"/>
+  <circle cx="95" cy="72" r="4" fill="#2d2a25"/>
+  <text x="80" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#4f5d79">DIA</text>
+</svg>

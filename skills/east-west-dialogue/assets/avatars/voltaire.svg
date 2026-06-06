@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Voltaire avatar</title>
+  <desc id="desc">Symbolic avatar for Voltaire with wit badge.</desc>
+  <rect width="160" height="160" rx="28" fill="#f5f1e8"/>
+  <circle cx="80" cy="70" r="40" fill="#d6bea4"/>
+  <path d="M42 115c10-24 66-24 76 0v13H42z" fill="#745e74"/>
+  <path d="M48 54c11-25 53-25 64 0-17-9-47-9-64 0z" fill="#e8e1d1"/>
+  <path d="M57 57c9-12 37-12 46 0" fill="none" stroke="#b8ad99" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="65" cy="72" r="4" fill="#2d2a25"/>
+  <circle cx="95" cy="72" r="4" fill="#2d2a25"/>
+  <path d="M67 92c11 9 24 4 29-8" fill="none" stroke="#2d2a25" stroke-width="4" stroke-linecap="round"/>
+  <text x="80" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#745e74">WIT</text>
+</svg>

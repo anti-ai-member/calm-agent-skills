@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Zhang Zai avatar</title>
+  <desc id="desc">Symbolic avatar for Zhang Zai with qi badge.</desc>
+  <rect width="160" height="160" rx="28" fill="#eef2f1"/>
+  <circle cx="80" cy="70" r="41" fill="#d4c4a5"/>
+  <path d="M43 115c9-24 65-24 74 0v13H43z" fill="#4b6570"/>
+  <circle cx="80" cy="66" r="29" fill="none" stroke="#6d8b8a" stroke-width="6"/>
+  <circle cx="80" cy="66" r="12" fill="none" stroke="#6d8b8a" stroke-width="5"/>
+  <circle cx="63" cy="74" r="4" fill="#2d2a25"/>
+  <circle cx="97" cy="74" r="4" fill="#2d2a25"/>
+  <path d="M69 92c7 5 15 5 22 0" fill="none" stroke="#2d2a25" stroke-width="4" stroke-linecap="round"/>
+  <text x="80" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#4b6570">QI</text>
+</svg>
