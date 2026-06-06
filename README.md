@@ -2,28 +2,59 @@
   <img src="assets/brand/lazy-coconut.svg" alt="Lazy Coconut pixel avatar" width="140">
 </p>
 
-# Calm AI Skills
+# Calm Agent Skills
+
+Portable Codex and Claude Code skills for calmer, more human-friendly AI agent workflows.
+
+## Introductions
+
+### 简体中文
 
 让 Agent 干活，也让人喘口气。
 
-Calm AI Skills 是一组同时支持 **Codex** 和 **Claude Code** 的便携式 skills。它们不是为了把人训练成更高效的机器，而是为了让人在使用 Agent 工作时少一点紧绷、多一点余地：压力降下来，沟通顺一点，脑子别一直卡在 KPI、bug、deadline 和单一思路里。
+Calm Agent Skills 是一组同时支持 **Codex** 和 **Claude Code** 的便携式 skills。它们不是为了把人训练成更高效的机器，而是为了让人在使用 Agent 工作时少一点紧绷、多一点余地：压力降下来，沟通顺一点，bug 不再像半夜敲门的债主，脑子也别一直卡在 KPI、deadline 和单一思路里。
 
-最大的目标很朴素：**帮使用 Agent 的人放松一点，也别被困在某个思想的牢笼里。**
+这个项目最大的目标很朴素：**帮使用 Agent 的人放松一点，也别被困在某个思想的牢笼里。**
 
-## What This Is
+### English
 
-This is a small collection of portable agent skills for calmer, more humane AI-assisted work.
+Let the agent do the work. Let the human breathe.
 
-Use them when you want an agent to:
+Calm Agent Skills is a portable skill collection for **Codex** and **Claude Code**. It helps AI agents work in a calmer, more human-friendly way: less pressure, steadier debugging, better workplace communication, a little local warmth, the occasional fake-serious joke, and even philosophical dialogues when your brain needs to step outside the spreadsheet-shaped room.
 
-- lower pressure without interrupting the task;
-- debug with evidence instead of panic;
-- write workplace messages with less emotional friction;
-- speak in a warmer local or cultural style;
-- make harmless fake-serious jokes when everyone needs a laugh;
-- host East-West thinker dialogues so the mind can stretch after work.
+The point is simple: help people use agents without becoming one.
 
-In short: less grind, more breathing room. The machine can move fast; the human does not have to become a machine.
+### 日本語
+
+Agent には働いてもらいましょう。でも、人間まで機械になる必要はありません。
+
+Calm Agent Skills は **Codex** と **Claude Code** で使えるポータブルな skill 集です。仕事の圧を少し下げ、デバッグを落ち着かせ、職場コミュニケーションをやわらかくし、必要なら地域の空気感も少し足します。さらに、仕事の合間に東西の思想家を呼んで、頭を会議室の外へ連れ出すこともできます。
+
+目的はまじめです。少しだけふざけていますが。Agent を使う人が、仕事や一つの考え方に閉じ込められないようにすることです。
+
+### 한국어
+
+Agent는 일하게 두고, 사람은 숨 좀 돌립시다.
+
+Calm Agent Skills는 **Codex**와 **Claude Code**에서 함께 쓸 수 있는 휴대용 skill 모음입니다. AI agent가 일을 도와줄 때 압박감은 낮추고, 디버깅은 차분하게 하고, 업무 메시지는 덜 날카롭게 만들고, 필요하면 지역적인 친근함도 살짝 더합니다. 가끔은 진지한 척하는 농담이나 동서양 사상가의 대화로 머리를 일의 감옥 밖으로 산책시킬 수도 있습니다.
+
+핵심은 간단합니다. Agent를 쓰는 사람이 Agent처럼 소모되지 않게 하는 것.
+
+### Deutsch
+
+Der Agent darf arbeiten. Der Mensch darf durchatmen.
+
+Calm Agent Skills ist eine portable Skill-Sammlung fuer **Codex** und **Claude Code**. Sie hilft Agenten, ruhiger und menschlicher zu arbeiten: weniger Druck, systematischeres Debugging, klarere Kommunikation, etwas lokale Naehe, gelegentlich serioes klingender Unsinn und philosophische Dialoge, damit der Kopf nicht dauerhaft im Arbeitskaefig bleibt.
+
+Kurz gesagt: gute Struktur, weniger Hektik, und kein Zwang, selbst zum Prozessdiagramm zu werden.
+
+### Français
+
+Laissez l'agent travailler. Laissez l'humain respirer.
+
+Calm Agent Skills est une collection portable de skills pour **Codex** et **Claude Code**. Elle aide les agents IA a travailler avec moins de pression et plus d'humanite : debogage plus pose, messages professionnels moins tendus, ton plus chaleureux, humour absurde clairement annonce, et dialogues entre penseurs d'Orient et d'Occident quand l'esprit a besoin d'une fenetre.
+
+Le but est simple : utiliser des agents sans finir enferme dans une cage de travail ou dans une seule maniere de penser.
 
 ## Skills
 
@@ -34,33 +65,9 @@ In short: less grind, more breathing room. The machine can move fast; the human 
 - `playful-nonsense`: Generates clearly labeled fake-serious nonsense for humor and creative play.
 - `east-west-dialogue`: Hosts a bounded East-West thinker dialogue for reflective work breaks.
 
-## Language And Tone
-
-These skills can be used in:
-
-- 简体中文
-- English
-- 日本語
-- 한국어
-- Deutsch
-- Français
-
-The intended tone is relaxed, lightly witty, and locally aware.
-
-- 简体中文：自然一点，别端着。可以有点松弛感，但正事要讲清楚。
-- English: friendly, practical, and lightly humorous. No corporate fog machine.
-- 日本語: 丁寧で落ち着いた表現を基本にしつつ、少しやわらかく。
-- 한국어: 정중하고 따뜻하게, 부담은 줄이고 핵심은 또렷하게.
-- Deutsch: klar, strukturiert, direkt, aber nicht kalt. Ordnung darf auch freundlich sein.
-- Français: poli, fluide, un peu d'esprit, mais sans transformer chaque phrase en dissertation.
-
-The agent should adapt to the user, not perform a cultural costume show. Local flavor is seasoning, not the whole soup.
-
 ## How To Use
 
 Invoke a skill by name, or ask naturally.
-
-Examples:
 
 ```text
 Use $ai-work-calm to help me finish this task with less pressure.
@@ -151,9 +158,3 @@ description: What the skill does and the specific situations that should trigger
 ```
 
 Write the body as operational guidance for an AI agent. Keep it useful, compact, and kind to the context window. Put detailed examples in `references/` so the agent can load them only when needed.
-
-## Philosophy
-
-Work matters, but it should not become the only room in the house.
-
-These skills try to make Agent work feel less like being chased by a calendar notification and more like having a capable, slightly calmer collaborator beside you. Sometimes that means debugging carefully. Sometimes it means writing a message that will not start a small office fire. Sometimes it means letting Laozi and Nietzsche argue for 20 turns so your own mind remembers it has windows.
